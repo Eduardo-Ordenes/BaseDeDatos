@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BaseDato</string>
+    <string name="txtNombre">Ingrese nombre</string>
+    <string name="txtTelefono">Ingrese su número telefonico</string>
+    <string name="txtCorreo">Ingrese su correo</string>
+    <string name="btnGuardar">Guardar registro</string>
+
+</resources>
